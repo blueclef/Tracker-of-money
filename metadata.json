@@ -1,0 +1,7 @@
+{
+  "name": "Receiptify - Smart Expense Tracker",
+  "description": "An intelligent expense tracking application that digitizes receipts using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
